@@ -16,3 +16,7 @@ class code:
         self.window = pygame.display.set_mode((self.width, self.height))
         self.window.fill(self.Backgroundcolor)
         self.run = True
+
+class Nothing:
+    def __init__(self):
+        pass
