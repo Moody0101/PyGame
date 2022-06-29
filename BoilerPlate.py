@@ -1,4 +1,5 @@
 import pygame
+
 class code:
     """Just an initializer, But running the Instance is manual."""
     def __init__(self, Title, Backgroundcolor=(255, 255, 255), width=None, height=None):

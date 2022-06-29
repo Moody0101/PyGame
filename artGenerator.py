@@ -8,6 +8,7 @@ from random import choice, randint, uniform
 from BoilerPlate import code
 from math import sin, tan, cos, sqrt
 from numpy import random
+
 class circle:
     
     def __init__(self, win, x, y, color, radius):
